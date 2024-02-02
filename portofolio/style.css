@@ -1,0 +1,45 @@
+
+.jumbotron{
+    padding-top: 5rem;
+    background-color: #FDE767;
+}
+
+.jumbotron{
+    img {
+        transition: 1.3s;
+        height: 200px;
+        border-radius: 50%;
+        box-shadow: 0px 0px 10px 0px;
+      }
+
+      img:hover {
+        transition: 1.3s;
+        width: 40vh;
+        height: 40vh;
+}
+}
+section{
+    padding-top: 5rem;
+}
+
+.card{
+    transition: all 0.3s;
+}
+.c1:hover{
+    transform: scale(1.15);
+    margin-right: 10vh;
+}
+.c3:hover{
+    transform: scale(1.15);
+    margin-left: 10vh;
+    
+}
+.c5:hover{
+    transform: scale(1.15);
+    margin-right: 7vh; 
+}
+.c6:hover{
+    transform: scale(1.15);
+    margin-left: 7vh; 
+}
+
